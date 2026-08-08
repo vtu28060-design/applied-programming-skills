@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu28060-design/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0905-sort-array-by-parity](https://github.com/vtu28060-design/applied-programming-skills/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28060-design/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28060-design/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28060-design/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28060-design/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu28060-design/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
